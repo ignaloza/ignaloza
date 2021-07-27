@@ -1,6 +1,6 @@
 ### Hi there! Im Ignacio. An argentinian web-developer based in Barcelona, Spain. 👋
 
-- 🔭 I’m currently working on my final group project of bootcamp Henry in which we are using different technologies such as JavaScript, TypeScript React, Redux, HTML, CSS, Express.js, Node.js, MongoDB and Material-UI. 
+-   👨🏽‍💻 I’m currently working on my final group project of bootcamp Henry in which we are using different technologies such as JavaScript, TypeScript React, Redux, HTML, CSS, Express.js, Node.js, MongoDB and Material-UI. 
 - In this bootcamp I also developed some common apps such as Weather App, IMDB clone, To-Do agenda, Math calculator, Dog finder and a Recipe finder. Everything using JavaScript and applying different frameworks. These projects will be available to see in the next few weeks :).
 
 - I’m looking to collaborate on projects regarding sports⚽🏉🏀, sustainability🌎🌱♻️, tourism🏨🏕️  and music🎸🎧. 
