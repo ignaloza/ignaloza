@@ -1,7 +1,7 @@
 ### Hi there! Im Ignacio. An argentinian web-developer based in Barcelona, Spain. 👋
 
 -   👨🏽‍💻 I'm a graduate of Latin-American bootcamp Henry in which we learnt different technologies such as JavaScript, TypeScript React, Redux, HTML, CSS, Express.js, Node.js, MongoDB and Material-UI. 
-- In this bootcamp I also developed some common apps such as Weather App, IMDB clone, To-Do agenda, Math calculator, Dog finder and a Recipe finder. Our final project was Spa-tify, an app where you can reserve beauty and wellness services to receive them at home. Everything using JavaScript and applying different frameworks. These projects will be available to see in the next few weeks here in my profile :).
+- In this bootcamp I also developed some common apps such as Weather App, IMDB clone, To-Do agenda, Math calculator, Dog finder and a Recipe finder. Our final project was Spa-tify, an app where you can book beauty and wellness services to receive them at home. Everything using JavaScript and applying different frameworks. These projects will be available to see in the next few weeks here in my profile :).
 
 - I’m looking to collaborate on projects regarding sports⚽🏉🏀, sustainability🌎🌱♻️, tourism🏨🏕️  and music🎸🎧. 
 
